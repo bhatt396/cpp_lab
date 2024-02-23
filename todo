@@ -1,0 +1,12 @@
+OOP Lab 5 (Template, Exception Handling and File Handling):
+Objective: To understand the concept of Template, Exception Handling and File Handling
+
+WAP to calculate the perimeter of a rectangle using the concept of class template.
+WAP to implement the concept of function template overloading.
+WAP to implement stack operations using the concept of template.
+WAP to find the square root of a number using the concept of exception handing.
+WAP to implement rethrow exception
+WAP to implement catching all exception.
+WAP to implement multiple handler.
+WAP to scan details of 48 students and write it to a file student.txt. Also scan the details of students from the file and display to the console.
+WAP to scan details of 50 employees and write it to a file named employee.dat. Also scan the details of employee from the file and display the information of only those employees whose salary is between 25000 and 50000. 
